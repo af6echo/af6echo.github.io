@@ -27,6 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+Ali received his B.S. in physics from Sharif University of Technology. As an undergrad, he was drawn to the idea of using physical models to explain living systems, and conducted research on applying reinforcement learning to a model of a micro-swimmer in low-Reynolds-number environments with Reza Ejtehadi. Pursuing his studies in the Biophysics Ph.D. program in the University of Maryland, Ali was fascinated by the world of viruses and bacteriophages, after watching a Kurzgesagt video on them, and joined the Weitz group to primarily work on phage therapy. In his free time, he likes to watch movies, play table tennis, and explore new places.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
